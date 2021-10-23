@@ -1,5 +1,4 @@
-import pepe.Suma;
-
+package pepe;
 public  class Maria{
 public static void main(String[] args) {
     String hola = "paquito el chocolatero";
